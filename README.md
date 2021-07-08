@@ -1,2 +1,7 @@
 //同步测试
-///asdioh
+///asdiohasd
+#include<studio.h>
+int main()
+{
+    
+}
